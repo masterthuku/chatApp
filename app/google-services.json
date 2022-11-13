@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931938265760",
+    "project_id": "holla-b75ce",
+    "storage_bucket": "holla-b75ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931938265760:android:c765c68d39ba27aa1ff7c5",
+        "android_client_info": {
+          "package_name": "com.example.holla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931938265760-o6itm14gvvrarekq73edo46eo1gv8l4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfB5UGQqQ5fKsBo1ajaItM1RFqBs-g7L0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931938265760-o6itm14gvvrarekq73edo46eo1gv8l4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
